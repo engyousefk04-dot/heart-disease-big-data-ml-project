@@ -50,3 +50,5 @@ We evaluated the models using:
 - Mohanad Mostafa Gomaa
 - Omar Khairy Abdelaal
 - Mohamed Ramadan Ali
+- Kareem tamer mahmoud
+- Mostafa fawzy fawzy
