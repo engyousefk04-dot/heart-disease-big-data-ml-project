@@ -15,10 +15,6 @@ We performed:
 - Missing values checking
 - Duplicate removal
 - Exploratory Data Analysis
-- Filtering
-- Grouping
-- Aggregation
-- Insight extraction
 
 ## Big Data Processing
 We used PySpark DataFrames to apply:
@@ -26,6 +22,7 @@ We used PySpark DataFrames to apply:
 - Filtering
 - Grouping
 - Aggregation
+- Insight extraction
 
 ## Machine Learning Models
 We trained multiple models:
